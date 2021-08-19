@@ -1,0 +1,53 @@
+* {
+  font-size: 26px;
+  margin: 0;
+}
+
+header {
+  padding: 45px 0;
+  color: #fff;
+  background: #2e354f;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container img {
+  width: 100%;
+}
+
+section {
+  padding: 12px 0;
+}
+
+.section-one {
+  margin: 45px auto;
+  color: #2e354f;
+}
+
+h3 {
+  color: red;
+  font-size: 1rem;
+}
+
+section.section-two {
+  margin-top: 45px;
+  background: #2e354f;
+  color: #fff;
+}
+
+section.section-two p {
+  margin: 12px 0;
+}
+
+section.section-two a {
+  padding: 6px;
+  margin-right: 12px;
+  background: red;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
